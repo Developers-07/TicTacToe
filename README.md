@@ -1,3 +1,3 @@
 # Tictactoe Game
 
-It's all about learning a language deeply.
+It's all about deeply learning a language.
